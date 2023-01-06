@@ -1,3 +1,3 @@
 # Test Project 1
 
-First Test Project
+First Test project to explore GitHub 
