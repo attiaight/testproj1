@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\DataManager"
   ],
-  "SelectedNode": "\\D:\\Atif\\Educational\\GitRepo\\testproj1",
+  "SelectedNode": "\\src\\DataManager\\DataManager.csproj",
   "PreviewInSolutionExplorer": false
 }
